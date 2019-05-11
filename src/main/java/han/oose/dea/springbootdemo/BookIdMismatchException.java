@@ -18,3 +18,4 @@ public class BookIdMismatchException extends RuntimeException {
     public BookIdMismatchException(final Throwable cause) {
         super(cause);
     }
+}
