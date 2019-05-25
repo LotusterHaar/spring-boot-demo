@@ -1,4 +1,4 @@
-package han.oose.dea.springbootdemo.persistence.model;
+package han.oose.dea.springbootdemo.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

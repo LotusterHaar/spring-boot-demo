@@ -7,7 +7,7 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.List;
 
-import han.oose.dea.springbootdemo.persistence.model.Book;
+import han.oose.dea.springbootdemo.model.Book;
 import org.junit.Test;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

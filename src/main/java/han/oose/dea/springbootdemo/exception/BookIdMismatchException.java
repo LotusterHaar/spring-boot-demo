@@ -1,4 +1,4 @@
-package han.oose.dea.springbootdemo;
+package han.oose.dea.springbootdemo.exception;
 
 
 public class BookIdMismatchException extends RuntimeException {

@@ -1,4 +1,4 @@
-package han.oose.dea.springbootdemo;
+package han.oose.dea.springbootdemo.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
